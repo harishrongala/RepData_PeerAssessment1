@@ -150,7 +150,7 @@ print(g);
 
 In the above plot, black verticle line represents maximum average steps at 5 minute interval.
 
-## 4. Inputing missing values
+## 4. Imputing missing values
 
 ```r
 # Calculate total number of missing values
